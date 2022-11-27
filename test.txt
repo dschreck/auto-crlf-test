@@ -3,7 +3,7 @@ and
 it has several
 new lines
 
-	this is tabed 
+	this is tabbed
 
 and this next line
   has two spaces to start
