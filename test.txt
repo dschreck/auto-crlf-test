@@ -1,0 +1,12 @@
+this file was written on my mac
+and
+it has several
+new lines
+
+	this is tabed 
+
+and this next line
+  has two spaces to start
+
+next line is end of file.
+
